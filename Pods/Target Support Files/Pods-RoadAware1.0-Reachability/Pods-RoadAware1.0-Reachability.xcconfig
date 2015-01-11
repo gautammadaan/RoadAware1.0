@@ -1,0 +1,1 @@
+PODS_ROADAWARE____REACHABILITY_OTHER_LDFLAGS = -framework "SystemConfiguration"
